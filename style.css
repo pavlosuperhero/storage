@@ -1,0 +1,16 @@
+*{
+    margin:auto;
+}
+.main_table{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    align-content:center;
+    border:solid 1px;
+    border-color: blue;
+    align-self:center;
+}
+.main_table td, .main_table th{
+    border:solid 1px;
+    border-color:red;
+}
