@@ -74,4 +74,5 @@ node('php') {
                 reportName: "PHPDox Documentation"
 
         ])
+    }
 }
