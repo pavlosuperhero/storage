@@ -6,7 +6,7 @@ node('php') {
                  doGenerateSubmoduleConfigurations: false,
                  extensions: [],
                  submoduleCfg: [],
-                 userRemoteConfigs: [[url: '#your-git-link#']]]
+                 userRemoteConfigs: [[url: 'https://github.com/pavlosuperhero/storage.git']]]
         )
     }
 
